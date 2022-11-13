@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MAE_Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name"><![CDATA[<b>Name: </b>]]></string>
+    <string name="fee"><![CDATA[<b>Fee: </b>]]></string>
+    <string name="location"><![CDATA[<b>Location: </b>]]></string>
+    <string name="country"><![CDATA[<b>Country: </b>]]></string>
+    <string name="contactno"><![CDATA[<b>Contact No: </b>]]></string>
+    <string name="email"><![CDATA[<b>Email: </b>]]></string>
 </resources>
