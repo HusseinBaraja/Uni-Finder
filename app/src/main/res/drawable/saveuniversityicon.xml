@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/university"
+        android:width="@dimen/_30sdp"
+        android:height="@dimen/_30sdp"
+        android:drawable="@drawable/school" />
+    <item
+        android:id="@+id/save"
+        android:width="@dimen/_7sdp"
+        android:gravity="end"
+        android:height="@dimen/_7sdp"
+        android:drawable="@drawable/save"
+        android:end="1dp"
+        android:top="@dimen/_2sdp">
+
+    </item>
+</layer-list>

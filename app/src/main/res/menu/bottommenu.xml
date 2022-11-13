@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnUniversity"
+        android:icon="@drawable/school"
+        android:title="Universities" />
+    <item
+        android:id="@+id/btnMajor"
+        android:icon="@drawable/majority"
+        android:title="Major" />
+    <item
+        android:id="@+id/btnScholorShip"
+        android:icon="@drawable/graduation"
+        android:title="Scholarship" />
+    <item
+        android:id="@+id/btnSaveFiles"
+        android:icon="@drawable/save"
+        android:title="SaveFiles" />
+</menu>
